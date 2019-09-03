@@ -19,6 +19,7 @@ In this project your goal is to safely navigate around a virtual highway with ot
 ---------------------------
 The Code is compiling using cmake and make without any errors. The build folder include the path_planning that has been excuted.
 
+
 ### 2. Valid Trajectories
 --------------------------------
 #### 2.1 The car is able to drive at least 4.32 miles without incident
@@ -28,6 +29,7 @@ The following picture identify that the vehicle kept driving for 5 miles without
 #### 2.2 The car drives according to the speed limit
 The following picture identify that The car didn't drive faster than the speed limit
 ![alt text][image2]
+
 Also the car didn't drive much slower than speed limit unless obstructed by traffic (another vehicle)
 ![alt text][image3]
 
@@ -43,10 +45,10 @@ The Vehicle was able to drive the whole 5 miles without any incidents
 The Vehicle was able to keep the same lane even while passing between two cars.
 ![alt text][image5]
 
-
 #### 2.6 The car is able to change lanes
-
+The vehicle was able to change lanes smoothly when there's an obstacle in its way.
 ![alt text][image6]
+
 
 ### 3. Reflection
 ---------------------------
